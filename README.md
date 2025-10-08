@@ -7,5 +7,36 @@ This is an extra assigment for Cloud Computing course, I will create a static we
 - GitHub Flavored Markdown
 - Public
 
+## Progress
+### What I've Done
+✅  First I created a public GitHub repository
+✅  Enabled GitHub Pages from Settings and got a public free URL
+✅  Wrote Markdown content on my README file
+
+### Assingment Checklist
+| Task                      | Status |
+|--------------------------|--------|
+| Repo created             | ✅     |
+| GitHub Pages enabled     | ✅     |
+| Markdown features added  | 🔄     |
+| Screenshots uploaded     | 🔄     |
+
+### Sample Code
 ```javascript 
 console.log("Hello WebAsembly!");
+```
+
+```python
+def greet():
+  print("Hello classmates!")
+```
+
+### Link
+```markdown
+### Visit My Website
+[Click here to view it live](https://tecnopistacho.github.io/markdown-website/)
+```
+
+### Image
+![Random Image](images/mochi.png)
+
