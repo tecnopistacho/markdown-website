@@ -42,9 +42,11 @@ Visit My Website
 
 ## WebAssembly Demo: Particle Toy
 
-A cute interactive game built with LittleJS and WebAssembly. 
 This demo runs a full x86 operating system in your browser using WebAssembly.
-👉 [Open in full screen](https://killedbyapixel.github.io/LittleJS/examples/particleToy.html)
 
-<iframe src="https://killedbyapixel.github.io/LittleJS/examples/particleToy.html" width="100%" height="500px" title="Particle Toy"></iframe>
+👉 [Open in full screen](https://copy.sh/v86/)
+
+<iframe src="https://copy.sh/v86/" width="100%" height="500px" title="x86 Emulator"></iframe>
+
+
 
