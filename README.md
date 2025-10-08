@@ -32,10 +32,9 @@ def greet():
 ```
 
 ### Link
-```markdown
-### Visit My Website
+Visit My Website
 [Click here to view it live](https://tecnopistacho.github.io/markdown-website/)
-```
+
 
 ### Image
 ![Random Image](mochi.png)
