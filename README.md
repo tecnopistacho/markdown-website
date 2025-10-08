@@ -38,5 +38,5 @@ def greet():
 ```
 
 ### Image
-![Random Image](images/mochi.png)
+![Random Image](mochi.png)
 
