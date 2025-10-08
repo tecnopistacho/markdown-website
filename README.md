@@ -10,8 +10,11 @@ This is an extra assigment for Cloud Computing course, I will create a static we
 ## Progress
 ### What I've Done
 ✅  First I created a public GitHub repository
+
 ✅  Enabled GitHub Pages from Settings and got a public free URL
+
 ✅  Wrote Markdown content on my README file
+
 
 ### Assingment Checklist
 | Task                      | Status |
@@ -40,7 +43,7 @@ Visit My Website
 ![Random Image](mochi.png)
 
 
-## WebAssembly Demo: Particle Toy
+## WebAssembly Demo: 
 
 This demo runs a full x86 operating system in your browser using WebAssembly.
 
