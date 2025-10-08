@@ -40,3 +40,11 @@ def greet():
 ### Image
 ![Random Image](mochi.png)
 
+
+## WebAssembly Demo: x86 Emulator
+
+This demo runs a full x86 operating system in your browser using WebAssembly.
+👉 [Open in full screen](https://copy.sh/v86/)
+
+<iframe src="https://copy.sh/v86/" width="100%" height="500px" title="x86 Emulator"></iframe>
+
